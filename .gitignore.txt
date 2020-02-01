@@ -26,3 +26,7 @@
 *.la
 *.a
 *.lib
+
+# Do not add any files inside the Generated Code
+/GeneratedCode
+
